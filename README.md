@@ -1,6 +1,4 @@
 # Hi, I'm Bryan Vela 👋
-
-### About Me
 ![aboutme](https://user-images.githubusercontent.com/55074395/144367584-37b77122-8196-4add-b131-cdf13aacb9fd.png)
 
 ### Find me on
