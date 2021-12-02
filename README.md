@@ -51,5 +51,5 @@
 
 ## GitHub States
        
- <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=swift&title_color" alt="bdvela's github stats" />  img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=swift&hide_border=true&hide=java" />
+ <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=swift&title_color" alt="bdvela's github stats" />  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=swift&hide_border=true&hide=java" />
 
