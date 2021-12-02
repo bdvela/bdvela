@@ -33,7 +33,7 @@
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 <!-- BOOTSTRAP --> &nbsp &nbsp
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<!-- SPRINGBOOT --> 
+<!-- SPRINGBOOT --> &nbsp &nbsp
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <!-- MYSQL --> &nbsp &nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>     
@@ -48,5 +48,8 @@
 
 ## GitHub States
        
- <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=material-palenight" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=material-palenight&hide_border=true&hide=java" /></a> 
+ <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=material-palenight&title_color" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=material-palenight&hide_border=true&hide=java" /></a> 
 
+## My Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdvela&repo=DISWALLET&theme=material-palenight&height=180)](https://github.com/bdvela/DISWALLET)
