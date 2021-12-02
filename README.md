@@ -1,9 +1,9 @@
 # Hi, I'm Bryan Vela 👋
 ### About me
 
-📫 Reach me on bdvela20@gmail.com
+📫 Reach me on **bdvela20@gmail.com**
 
-🎓 I'm currently studyng Software Engineering at UPC
+🎓 I'm currently studyng Software Engineering at *UPC*
 
 📄 I want to Focused my skills on Frontend Web Development
 
@@ -45,7 +45,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <!-- PHOTOSHOP --> &nbsp &nbsp
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-  
+
+## GitHub States
        
 | <a href="https://github.com/bdvela/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true" alt="bdvela's github stats" /></a> | <a href="https://github.com/bdvela/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
