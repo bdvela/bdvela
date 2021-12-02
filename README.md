@@ -33,17 +33,21 @@
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="60" /> </a>
 <!-- BOOTSTRAP --> &nbsp &nbsp
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" /> </a>     
-<!-- FIREBASE --> &nbsp &nbsp
+ </p>
+ <p>
+<!-- FIREBASE -->
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" /> </a>
 <!-- GIT --> &nbsp &nbsp
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" /> </a>
 <!-- VSCODE --> &nbsp &nbsp
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="60" /> </a>
-<!-- FIGMA --> &nbsp &nbsp
+ </p>
+ <p>
+<!-- FIGMA -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" /> </a>
 <!-- PHOTOSHOP --> &nbsp &nbsp
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" alt="photoshop" width="60" /> </a> </p>
-
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" alt="photoshop" width="60" /> </a> 
+</p>
 ## GitHub States
        
  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=swift&title_color" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=swift&hide_border=true&hide=java" /></a> 
