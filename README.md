@@ -48,6 +48,7 @@
 <!-- PHOTOSHOP --> &nbsp &nbsp
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" alt="photoshop" width="60" /> </a> 
 </p>
+
 ## GitHub States
        
  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=swift&title_color" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=swift&hide_border=true&hide=java" /></a> 
