@@ -19,7 +19,7 @@
   </p>
 
 
-## Languages and Tools
+## My Skills
 <p align="left"> 
 <!-- HTML 5 -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -48,6 +48,5 @@
 
 ## GitHub States
        
-| <a href="https://github.com/bdvela/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true" alt="bdvela's github stats" /></a> | <a href="https://github.com/bdvela/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=material-palenight" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=material-palenight&hide_border=true&hide=java" /></a> 
 
