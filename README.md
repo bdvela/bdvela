@@ -50,6 +50,3 @@
        
  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=material-palenight&title_color" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=material-palenight&hide_border=true&hide=java" /></a> 
 
-## My Top Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bdvela&repo=DISWALLET&theme=material-palenight&height=180)](https://github.com/bdvela/DISWALLET)
