@@ -1,5 +1,4 @@
 # Hi, I'm Bryan Vela 👋
-#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 
 ### About Me
 <p>
@@ -7,11 +6,12 @@
 🎓 I'm currently studyng Software Engineering at *UPC* <br>
 📄 I want to Focused my skills on Frontend Web Development <br>
 ⚡ I like calisthenics, motorcycles and basic mechanics
-  </p>
+</p>
 
 ### Find me 
+<!-- LINKEDIN --> 
 <a href="https://linkedin.com/in/bdvela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdvela" height="30" width="40" /></a>
-<a href="https://fb.com/bdvela20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bdvela20" height="30" width="40" /></a>
+<!-- INSTAGRAM --> &nbsp &nbsp
 <a href="https://instagram.com/bdvela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdvela" height="30" width="40" /></a>
 
 
