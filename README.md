@@ -46,7 +46,7 @@
 <!-- FIGMA -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" /> </a>
 <!-- PHOTOSHOP --> &nbsp &nbsp
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/ix/373285/png/373285.png" alt="photoshop" width="60" /> </a> 
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="60" /> </a> 
 </p>
 
 ## GitHub States
