@@ -48,5 +48,5 @@
 
 ## GitHub States
        
- <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=material-palenight" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=material-palenight&hide_border=true&hide=java" /></a> 
+ <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=bdvela&show_icons=true&include_all_commits=true&hide_border=true&theme=material-palenight" alt="bdvela's github stats" /></a>  <a href="https://github.com/bdvela/github-readme-stats"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvela&layout=compact&theme=material-palenight&hide_border=true&hide=java" /></a> 
 
