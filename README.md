@@ -3,13 +3,6 @@
 ### About Me
 ![aboutme](https://user-images.githubusercontent.com/55074395/144367584-37b77122-8196-4add-b131-cdf13aacb9fd.png)
 
-<p>
-📫 Reach me on **bdvela20@gmail.com** <br>
-🎓 I'm currently studyng Software Engineering at *UPC* <br>
-📄 I want to Focused my skills on Frontend Web Development <br>
-⚡ I like calisthenics, motorcycles and basic mechanics
-</p>
-
 ### Find me on
 <p>
 <!-- LINKEDIN --> 
