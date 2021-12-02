@@ -1,6 +1,14 @@
 # Hi, I'm Bryan Vela 👋
-<img width="791" alt="aboutme" src="https://user-images.githubusercontent.com/55074395/144368777-c0f09f45-412d-4b69-93a1-27729263ae0e.png">
+### About me
 
+📫 Reach me on bdvela20@gmail.com
+
+🎓 I'm currently studyng Software Engineering at UPC
+
+📄 I want to Focused my skills on Frontend Web Development
+
+⚡ I like calisthenics, motorcycles and basic mechanics
+</p>
 
 ### Find me on
 <p>
