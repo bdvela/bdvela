@@ -1,13 +1,13 @@
 # Hi, I'm Bryan Vela 👋
 ### About me
 
- 📫 Reach me on **bdvela20@gmail.com**
+- 📫 Reach me on **bdvela20@gmail.com**
 
- 🎓 I'm currently studyng Software Engineering at *UPC*
+- 🎓 I'm currently studyng Software Engineering at *UPC*
 
- 📄 I want to Focused my skills on Frontend Web Development
+- 📄 I want to Focused my skills on Frontend Web Development
 
- ⚡ I like calisthenics, motorcycles and basic mechanics
+- ⚡ I like calisthenics, motorcycles and basic mechanics
 </p>
 
 ### Find me on
