@@ -3,9 +3,9 @@
 
 - 📫 Reach me on **bdvela20@gmail.com**
 
-- 🎓 I'm currently studyng Software Engineering at *UPC*
-
 - 📄 Look at up my Portfolio on **https://bdvela.com/**
+
+- 🎓 I'm currently studyng Software Engineering at *UPC*
 
 - ⚡ I like calisthenics, motorcycles and basic mechanics
 </p>
