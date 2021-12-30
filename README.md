@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently studyng Software Engineering at *UPC*
 
-- 📄 I want to Focused my skills on Frontend Web Development
+- 📄 Look at up my Portfolio on **https://bdvela.com/**
 
 - ⚡ I like calisthenics, motorcycles and basic mechanics
 </p>
